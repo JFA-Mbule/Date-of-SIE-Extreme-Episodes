@@ -6,3 +6,5 @@ Nesta pasta estão as imagem que mostram as diferenças entre a simulação for�
 As figuras na pasta T2m_V10, a T2m é o sombreado e V10 estão em contornos. 
 
 
+# Energetics
+Nesta pasta estão os resultados da energetica de Lorenz para o HS durante os eventos de SIE. Os sombreados são refentes a diferenças entre SIEmax - SIEmin. As figuras para SIEmin, são marcadas com: a', b', c', e d'.
